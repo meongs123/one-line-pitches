@@ -11,7 +11,7 @@ agent build their first app idea on make.fun.
 
 ## The line
 
-> That little thing that bugs you every day: let an AI agent on make.fun build a first version of the fix, and try it free to see if the annoyance is gone.
+> That little thing that bugs you every day is your first app idea: let an AI agent on make.fun build a first version, and try it free to see if the annoyance is gone.
 
 The angle is problem-first: instead of pitching an idea in the abstract, the
 sentence opens on the small daily irritation the friend already complains

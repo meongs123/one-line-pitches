@@ -8,7 +8,16 @@ original, written for this entry, one sentence each, and name make.fun, the
 AI agent building, the first version, and a low-risk try, in plain words,
 with no invented speeds, prices or guarantees.
 
-## Candidate 1 — Problem-first (153 characters) ✅ PICKED
+## Candidate 1 — Problem-first (165 characters) ✅ FINAL (V2)
+
+> That little thing that bugs you every day is your first app idea: let an AI agent on make.fun build a first version, and try it free to see if the annoyance is gone.
+
+V2 is the final sentence. It supersedes the original 153-character primary
+per Red Team revision (F1/F2/F4/F5): V2 names the object explicitly ("your
+first app idea"), removes the ambiguous "first version of the fix", replaces
+the fragment colon opening with a complete clause, and scopes the object.
+The verified-virgin "bugs you" opening and the daily-pain urgency are kept.
+The original 153-character wording was:
 
 > That little thing that bugs you every day: let an AI agent on make.fun build a first version of the fix, and try it free to see if the annoyance is gone.
 
