@@ -30,6 +30,8 @@ secrets, no environment reads) writes that one line verbatim to
 node main.ts
 ```
 
+Two runs produce byte-identical output: the same sentence, every time.
+
 See [CANDIDATES.md](CANDIDATES.md) for the candidate lines considered and why
 this one was picked.
 
